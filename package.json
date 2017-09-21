@@ -1,0 +1,26 @@
+{
+  "name": "babe-plugin-remove-test-attr",
+  "version": "1.0.0",
+  "description": "Remove testID, testMyattr(production usage)",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeSarfati/babel-remove-transform-test-attr.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "babel",
+    "remove",
+    "test",
+    "data",
+    "attr"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeSarfati/babel-remove-transform-test-attr/issues"
+  },
+  "homepage": "https://github.com/GuillaumeSarfati/babel-remove-transform-test-attr#readme"
+}
